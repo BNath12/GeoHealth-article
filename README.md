@@ -4,3 +4,7 @@ The resources contain grid averaged arsenic concentration (mean concentrations) 
 
 Some of the original point data can be downloaded from: https://www.hydroshare.org/resource/bbe23dfacab647568a18dc338114d6d7/
 reference: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017WR022485
+
+Published research article can be found here:
+
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GH000585
